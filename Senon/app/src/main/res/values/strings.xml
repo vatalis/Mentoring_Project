@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Senon</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Add Staff</string>
+    <string name="btn_link_to_login">Beck To Home page</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="add_staff">Add</string>
+    <string name="view_staff">View</string>
+    <string name="action_settings">Settings</string>
+    <string name="del_staff">Delete</string>
+</resources>
